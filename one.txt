@@ -1,1 +1,3 @@
 adding some content to text file
+
+add another file and folder to this text file 
